@@ -1,4 +1,4 @@
-# Transcriptome-Analysis-for-Three-Neurodegenerative-Diseases-AD-PD-and-HD
+# Comparative Transcriptomic Analysis Reveals Shared Pathways and Candidate Gene Targets for Drug Repurposing in Alzheimer’s, Parkinson’s, and Huntington’s Diseases
 
 This repository is for studying the genetic expression profile of three neurodegenerative diseases: Alzheimer's, Parkinsons's, and Huntington's diseases. The analysis was done for publically available bulk RNA-Seq datasets from GEO data repository. 
 
